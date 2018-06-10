@@ -39,3 +39,9 @@ indirect invocation pattern
 14. Inheritance and this in JavaScript
 
 15. Apply, Call and Bind method
+
+
+Javascript Essentials_ Promises
+   
+      Javascript_promises.js
+      https://codepen.io/gvipul213/pen/LmwZmg
